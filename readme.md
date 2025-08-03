@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# https://github.com/AshishhAmin/Netflix_EDA add simple readme file
-
-Certainly! Here is a simple README file for the [Netflix_EDA](https://github.com/AshishhAmin/Netflix_EDA) project:
-
 # Netflix_EDA
 
 This project contains an Exploratory Data Analysis (EDA) of Netflix data using Python.
@@ -52,9 +46,5 @@ The EDA notebook includes:
 
 This project is for educational and demonstration purposes.
 
-You can further customize the README as needed!
 
-<div style="text-align: center">⁂</div>
-
-[^1]: https://github.com/AshishhAmin/Netflix_EDA
 
